@@ -2,9 +2,9 @@
 Nome dos integrates: Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medeiros Linhares Gomes
 
 # perguntas
-1- Qual seria a destribuição de capital mais eficaz no que tange as contratações por posição de um jogador de um time? 
-2- Seria possível prever a posição que um time vai ter na champions league analisando o quanto dominante ele é na sua liga?
-3- Qual a probabilidade de um time ganhar o campeonato na sua respectiva liga baseado em sua liderança de placar em rodadas de referência? como por exemplo: se o time estiver na decima quinta rodada em primeiro lugar, qual a probabilidade de ganhar o campeonato? e na trigezima? etc.(todas as ligas Europeias possuem 38 rodadas)
+1. Qual seria a destribuição de capital mais eficaz no que tange as contratações por posição de um jogador de um time? 
+2. Seria possível prever a posição que um time vai ter na champions league analisando o quanto dominante ele é na sua liga?
+3. Qual a probabilidade de um time ganhar o campeonato na sua respectiva liga baseado em sua liderança de placar em rodadas de referência? como por exemplo: se o time estiver na decima quinta rodada em primeiro lugar, qual a probabilidade de ganhar o campeonato? e na trigezima? etc.(todas as ligas Europeias possuem 38 rodadas)
 
 # data-bases
 
