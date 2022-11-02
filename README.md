@@ -8,7 +8,7 @@ Nome dos integrates: Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira
 
 # data-bases
 
-https://footystats.org/
-https://www.capology.com/uk/premier-league/salaries/
-https://www.transfermarkt.com.br/laliga/jahrestabelle/wettbewerb/ES1/saison_id/2021
-https://www.futebol.com/
+- https://footystats.org/
+- https://www.capology.com/uk/premier-league/salaries/
+- https://www.transfermarkt.com.br/laliga/jahrestabelle/wettbewerb/ES1/saison_id/2021
+- https://www.futebol.com/
