@@ -1,11 +1,7 @@
 # soccerprediction
-Nome dos integrates: Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medeiros Linhares GomesPerguntas:
+Nome dos integrates: Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medeiros Linhares Gomes
 
-# objetivos
-1- Em geral, o time que vence um campeonato possui necessariamente o melhor ataque,
-a melhor defesa, ambos ou nenhum dos dois? (De outra forma, é mais importante ter
-o melhor ataque ou a melhor defesa?)
-2- As contratações de um time refletiram diretamente no seu desempenho? (Se foram
-contratados atacantes, o número de gols efetivamente aumentou?)
-3- O diferencial para ser campeão é obter uma pontuação maior dentro de casa ou fora
-de casa?
+# perguntas
+1- Qual seria a destribuição de capital mais eficaz no que tange as contratações por posição de um jogador de um time? 
+2- É possível prever quanto dominante vai ser um time baseado no seu orçamento?
+3- Seria possível prever a posição que um time vai ter na champions league analisando o quanto dominante ele é na sua liga?
